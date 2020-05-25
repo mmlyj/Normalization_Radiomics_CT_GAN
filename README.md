@@ -1,3 +1,5 @@
+# Original project 
+https://github.com/Xiaoming-Yu/SingleGAN ,code of this project inherited from SingleGAN
 # Normalization
 A GAN method for normalizations of CT images
 # Train
