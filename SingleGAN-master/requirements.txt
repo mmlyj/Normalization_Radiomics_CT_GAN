@@ -13,7 +13,7 @@ chardet==3.0.4
 colorama==0.4.3
 conda==4.7.12
 conda-package-handling==1.6.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.13
 decorator==4.4.1
